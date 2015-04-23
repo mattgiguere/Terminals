@@ -1,0 +1,9 @@
+# Ignore Finder Files
+.DS_Store
+._*
+*/.DS_Store
+*/._*
+
+# Ignore NFS Files
+.nfs*
+*/.nfs*
